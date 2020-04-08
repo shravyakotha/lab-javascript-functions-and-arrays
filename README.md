@@ -152,6 +152,8 @@ const items = [
   'egg',
   'flour'
 ];
+
+
 ```
 
 ## Progression #6: Find elements
@@ -173,6 +175,8 @@ const words = [
   'ceiling',
   'flooring'
 ];
+
+
 ```
 
 ## Progression #7: Count repeated elements
@@ -195,6 +199,10 @@ const words = [
   'disobedience',
   'matter'
 ];
+
+
+
+
 ```
 
 ## Progression #8 (Bonus): Product of adjacent numbers
@@ -229,6 +237,8 @@ const matrix = [
   [21, 36, 23, 09, 75, 00, 76, 44, 20, 45]
 ];
 ```
+
+
 
 ### Progression #8.1 (Bonus): Product of diagonals
 
